@@ -1,2 +1,2 @@
-Tailwind CSS | i used a framework the name is tailwind css 
+Tailwind CSS | i have created a website using tailwind css 
 
